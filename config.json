@@ -3,5 +3,7 @@
     "orchestrator_model": "mixtral-8x7b-32768",
     "sub_agent_model": "mixtral-8x7b-32768",
     "refiner_model": "llama3-70b-8192",
-    "project_name": "AI_Driven_Application"
+    "project_name": "AI_Driven_Application",
+    "financial_api_key": "YOUR_FINANCIAL_API_KEY",
+    "pe_threshold": 15
 }
